@@ -9,7 +9,7 @@ Terminal UI for managing your LEADR account and leaderboards.
 
 ### Windows
 
-Download latest binary from at [https://leadr.gg/windows](https://leadr.gg/windows).
+Download latest binary from at [https://leadr.gg/windows](https://leadr.gg/download/windows).
 
 #### Manual Download
 
@@ -20,7 +20,7 @@ Download latest binary from at [https://leadr.gg/windows](https://leadr.gg/windo
 ### macOS / Linux
 
 ```bash
-curl -sSL https://leadr.gg/install.sh | bash
+curl -sSL https://leadr.gg/download/install.sh | bash
 ```
 
 #### Manual Download
@@ -39,7 +39,7 @@ leadr
 ## Documentation
 
 - **LEADR Docs**: https://docs.leadr.gg/latest/quick-start
-- **SDK Docs**: https://docs.leadr.gg/latest/sdks/
+- **SDK Docs**: https://docs.leadr.gg/latest/sdks
 
 ## Need some help?
 
